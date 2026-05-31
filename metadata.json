@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ZenkyBox",
+  "description": "Premium custom personalized gifting, corporate hampers, and B2B orders suite powered by our helpful Gemini companion fox, Zenky.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
